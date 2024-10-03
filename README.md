@@ -1,3 +1,6 @@
+## IMPORTANT NOTE
+The code in this repo was created by following [@Dave Gray](https://github.com/gitdagray)'s Youtube Tutorial on [Next.js with React Testing Library, Jest, TypeScript](https://www.youtube.com/watch?v=AS79oJ3Fcf0). Some of the code are similiar and there are some difference due to the update on NextJs default Home page changes.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
